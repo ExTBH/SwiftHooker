@@ -1,0 +1,13 @@
+.DS_Store
+/.build
+/Packages
+/*.xcodeproj
+xcuserdata/
+.vscode/
+
+.theos
+/packages
+.theos/
+packages/
+.DS_Store
+compile_commands.json

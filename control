@@ -1,0 +1,9 @@
+Package: dev.extbh.swifthooker
+Name: SwiftHooker
+Version: 1.0.1
+Architecture: iphoneos-arm
+Description: The Beginning, not the song
+Maintainer: ExTBH
+Author: ExTBH
+Section: System
+Tag: role::developer
