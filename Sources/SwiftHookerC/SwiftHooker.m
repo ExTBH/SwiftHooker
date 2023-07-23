@@ -1,1 +1,1 @@
-#import <Foundation/Foundation.h>
+// to foce the Swift header generation

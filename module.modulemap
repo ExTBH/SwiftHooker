@@ -1,0 +1,11 @@
+framework module SwiftHooker {
+  umbrella header "SwiftHooker.h"
+
+  export *
+  module * { export * }
+}
+
+module SwiftHooker.Swift {
+  header "SwiftHooker-Swift.h"
+  requires objc
+}
